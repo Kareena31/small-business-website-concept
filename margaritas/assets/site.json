@@ -1,0 +1,16 @@
+{
+  "demo_mode": true,
+  "name": "Margarita's Mexican Restaurant",
+  "short_name": "MARGARITA’S",
+  "city": "Conroe, Texas",
+  "address": "1027 N Loop 336 W, Conroe, TX 77301",
+  "phone": "+1 936-756-8771",
+  "hours": "Please call to confirm current opening hours and availability.",
+  "hero_title": "Good food. Good company.",
+  "hero_text": "A Tex-Mex stop on North Loop 336 in Conroe. Find the restaurant, call with a question, and make plans to get together.",
+  "rating": "4.3",
+  "review_count": "2,580",
+  "review_date": "September 12, 2026",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Margaritas%20Mexican%20Restaurant%201027%20N%20Loop%20336%20W%20Conroe%20TX",
+  "source_url": "https://www.allbiz.com/business/margaritas-mexican-restaurant_172G-936-756-8771"
+}
